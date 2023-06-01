@@ -2,6 +2,10 @@
 <a href = "https://baseballgrammer.tistory.com/">
 <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">
 </a>
+<a href = "https://www.instagram.com/jhdaimma/">
+<img src="https://img.shields.io/badge/instagram-#E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+
+
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leejoonh8406)](https://solved.ac/leejoonh8406)
