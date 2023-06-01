@@ -1,5 +1,6 @@
 ### Hi there 👋
-</a> <a href = "https://baseballgrammer.tistory.com/"> <img alt="Tistory" src ="<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Tistory</title><path d="M0 3a3 3 0 1 0 6 0 3 3 0 0 0-6 0m9 18a3 3 0 1 0 6 0 3 3 0 0 0-6 0m0-9a3 3 0 1 0 6 0 3 3 0 0 0-6 0m0-9a3 3 0 1 0 6 0 3 3 0 0 0-6 0m9 0a3 3 0 1 0 6 0 3 3 0 0 0-6 0"/></svg>"/></a>
+<img src="https://img.shields.io/badge/Tistory-#000000?style=for-the-badge&logo=Tistory&logoColor=white">
+
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leejoonh8406)](https://solved.ac/leejoonh8406)
