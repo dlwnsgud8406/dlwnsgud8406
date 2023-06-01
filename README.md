@@ -2,8 +2,9 @@
 <a href = "https://baseballgrammer.tistory.com/">
 <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">
 </a>
+
 <a href = "https://www.instagram.com/jhdaimma/">
-<img src="https://img.shields.io/badge/instagram-#E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<img src="https://img.shields.io/badge/Instagram-#E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 
 
