@@ -1,5 +1,5 @@
 ### Hi there 👋
-</a> <a href = "https://baseballgrammer.tistory.com/"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/></a>
+</a> <a href = "https://baseballgrammer.tistory.com/"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-black.svg?&style=for-the-badge"/></a>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leejoonh8406)](https://solved.ac/leejoonh8406)
