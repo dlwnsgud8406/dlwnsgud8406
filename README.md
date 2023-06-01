@@ -1,8 +1,10 @@
 ### Hi there 👋
+</a> <a href = "https://baseballgrammer.tistory.com/"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/></a>
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leejoonh8406)](https://solved.ac/leejoonh8406)
 
-</a> <a href = "https://baseballgrammer.tistory.com/"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/></a>
+
 
 <!--
 **dlwnsgud8406/dlwnsgud8406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
