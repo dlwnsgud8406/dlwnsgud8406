@@ -18,6 +18,8 @@ SNS
 
 TECH
 
+Algorithm
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leejoonh8406)](https://solved.ac/leejoonh8406)
 
