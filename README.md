@@ -2,11 +2,11 @@
 <a href = "https://baseballgrammer.tistory.com/">
 <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">
 </a>
-
-</a> <a href="https://instagram.com/jhdaimma">
+<a href="https://instagram.com/jhdaimma">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/fivepxint/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 
 [![Solved.ac
