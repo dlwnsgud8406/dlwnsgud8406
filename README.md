@@ -7,8 +7,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlwnsgud8406&layout=compact&theme=dracula)](https://github.com/dlwnsgud8406)
     
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leejoonh8406)](https://solved.ac/leejoonh8406)
 
 <hr>
 
