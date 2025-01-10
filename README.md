@@ -3,7 +3,7 @@
 
 <div align=center>
 
-![dlwnsgud8406's github stats](https://github-readme-stats.vercel.app/api?username=dlwnsgud8406&show_icons=true&theme=radical&token=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) 
+![dlwnsgud8406's github stats](https://github-readme-stats.vercel.app/api?username=dlwnsgud8406&show_icons=true&theme=radical) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlwnsgud8406&layout=compact&theme=dracula)](https://github.com/dlwnsgud8406)
     
